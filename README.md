@@ -1,1 +1,1 @@
-https://git.heroku.com/desolate-peak-77018.git
+ https://desolate-peak-77018.herokuapp.com/
